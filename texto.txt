@@ -1,2 +1,7 @@
 Sim, teste
+<<<<<<< HEAD
 Dev SENAIgit 
+=======
+Dev SENAI
+Node
+>>>>>>> 66ec2e85d7520640f11aad34b6be4283c40c293e
